@@ -799,5 +799,14 @@
 		"from_rank": null,
 		"above": "final_drop",
 		"below": "shizukana"
+	},
+	{
+		"date": 1762298375,
+		"action": "lowered",
+		"name": "obsidian_aspect",
+		"to_rank": 200,
+		"from_rank": 35,
+		"above": "dunewalker",
+		"below": "level_0"
 	}
 ]
