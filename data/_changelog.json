@@ -799,5 +799,14 @@
 		"from_rank": null,
 		"above": "final_drop",
 		"below": "shizukana"
+	},
+	{
+		"date": 1762297816,
+		"action": "raised",
+		"name": "gregregation",
+		"to_rank": 38,
+		"from_rank": 250,
+		"above": "obsidian_aspect",
+		"below": "cruelty_of_hope"
 	}
 ]
