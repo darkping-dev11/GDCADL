@@ -799,14 +799,5 @@
 		"from_rank": null,
 		"above": "final_drop",
 		"below": "shizukana"
-	},
-	{
-		"date": 1762298113,
-		"action": "raised",
-		"name": "gregregation",
-		"to_rank": 38,
-		"from_rank": 250,
-		"above": "titanium",
-		"below": "iter_theoria"
 	}
 ]
