@@ -1,43 +1,17 @@
 [
     {
         "role": "owner",
-        "name": "Evil",
+        "name": "darkping",
         "link": "https://www.youtube.com/@EvilEmperium"
     },
     {
-        "role": "owner",
-        "name": "Hydraniac",
-        "link": "https://www.youtube.com/@Hydraniac"
-    },
-    {
-        "role": "owner",
-        "name": "Sphericle",
-        "link": "https://youtube.com/@zsphericle"
-    },
-    {
         "role": "helper",
-        "name": "Salukis",
+        "name": "unknown",
         "link": "https://www.youtube.com/@Salukis"
     },
     {
-        "role": "helper",
-        "name": "Skip",
-        "link": "https://www.youtube.com/@skiptracingclub"
-    },
-    {
-        "role": "helper",
-        "name": "Sn0w",
-        "link": "https://www.youtube.com/@sn0wiscold"
-    },
-    {
-        "role": "helper",
-        "name": "Xeronius",
-        "link": "https://www.youtube.com/@XeroniusGD"
-        
-    },
-    {
         "role": "dev",
-        "name": "Sphericle",
+        "name": "darkping",
         "link": "https://youtube.com/@zsphericle"
     }
 ]
