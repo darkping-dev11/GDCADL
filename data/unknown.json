@@ -1,0 +1,20 @@
+{
+	"id": 123456,
+	"name": "unknown",
+	"creators": [
+		"unknown"
+	],
+	"verifier": "unknown",
+	"verification": "#",
+	"percentToQualify": 100,
+	"song": "unknown",
+	"difficulty": 4,
+	"records": [
+		{
+			"user": "unknown",
+			"link": "#",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 10
+		}
